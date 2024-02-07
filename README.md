@@ -76,3 +76,6 @@ Our database contains two tables. We've limited each table to 400 rows for this 
 </tr>
 </tbody>
 </table>
+
+# Visualization
+*https://public.tableau.com/app/profile/ioana.rusu2529/viz/GoldenAgeofVideoGamesDashboard/Dashboard*
